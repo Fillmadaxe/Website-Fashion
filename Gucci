@@ -1,0 +1,79 @@
+<html>
+<head>
+    <style>
+        body{
+        background-color:black ;}
+        h1 {
+            color: white;
+            text-align: center;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            
+        }
+        table {
+            width: 80%;
+            margin: 0 auto;
+            border-collapse: collapse;
+        }
+        td {
+            text-align: center;
+            padding: 20px;
+        }
+        img {
+            width: 200px; 
+            height: auto;
+            border-radius: 100px;
+            
+        }
+        caption {
+            font-weight: bold;
+            margin-top: 10px;
+        }
+       a:link,
+             a:visited {
+            color: white;
+            text-decoration: none;
+        } 
+
+         a:hover {
+          color: lightgray;
+        }
+        div{
+            color: white;
+            text-align: center;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-size: 18px;
+            
+        }
+         a:hover img {
+            transform: scale(1.5);
+            transition: 0.3s;
+        }
+    </style>
+</head>
+<body>
+    <h1><a href="https://www.gucci.com/it/it/?utm_source=google&utm_source_platform=SA360&utm_medium=cpc&utm_campaign=IT%7CIT%7CSRC%7CBrand+Pure%7CBrand%7CU%7CExact&utm_id=104987543&ds_a_agid=4021914983&gclsrc=aw.ds&gad_source=1&gad_campaignid=104987543&gbraid=0AAAAADurYgzFXIUOwFgRgqfRBHPUYbggo&gclid=EAIaIQobChMIj6vGsLGEkwMVTp2DBx0tMwL4EAAYASAAEgI7EPD_BwE">GUCCI</a></h1>
+    <table>
+        <tr>
+            <td>
+                <a href="https://www.gucci.com/it/en_gb/pr/men/shoes-for-men/winter-shoes-for-men/mens-gg-screener-sneaker-p-5465519Y9209666?utm_source=google&utm_source_platform=SA360&utm_medium=cpc&utm_campaign=IT%7CIT%7CPMX%7CGeneric%7CMulti%7CU%7C/&utm_id=18134806236&ds_a_agid=&gclsrc=aw.ds&gad_source=1&gad_campaignid=18134807472&gbraid=0AAAAADurYgzvAJcnxnJnjfgMHMV12xJSj&gclid=CjwKCAiAqprNBhB6EiwAMe3yhvw1Rsbqp4zyx2b3hhVrlfw2pzqoDqnwPxAd1ebWTrTGZt8v4zM31xoCspwQAvD_BwE"><img src="guccishoe.jpg"></a>
+                <div>screener GG</div>
+            </td>
+            <td>
+                <a href="https://www.gucci.com/it/it/pr/men/shoes-for-men/sneakers-for-men/mens-ace-sneaker-with-bee-p-42944602JP09064?utm_source=google&utm_source_platform=SA360&utm_medium=cpc&utm_campaign=IT%7CIT%7CPMX%7CGeneric%7CMulti%7CU%7CBestsellers&utm_id=19664564120&ds_a_agid=&gclsrc=aw.ds&gad_source=1&gad_campaignid=19656892284&gbraid=0AAAAADurYgyFAGn6iEFlnS9r6_nCl1Tzx&gclid=CjwKCAiAqprNBhB6EiwAMe3yhj_vVgJO_U-NlUQmmoGMp0lZynCtUQ1nSwmcdR558cVOEvNuaFa1bRoCJAwQAvD_BwE"><img src="guccishoe2.jpg"></a>
+                 <div>Sneaker Ace</div>
+            </td>
+            <td>
+                <a href="https://www.gucci.com/it/it/pr/women/shoes-for-women/sneakers-for-women/womens-rhyton-sneaker-with-gucci-logo-p-528892DRW009522?utm_source=google&utm_source_platform=SA360&utm_medium=cpc&utm_campaign=IT%7CIT%7CPMX%7CGeneric%7CMulti%7CU%7C/&utm_id=18134806236&ds_a_agid=&gclsrc=aw.ds&gad_source=1&gad_campaignid=18134807472&gbraid=0AAAAADurYgzvAJcnxnJnjfgMHMV12xJSj&gclid=CjwKCAiAqprNBhB6EiwAMe3yhhUDOXkjTd0JUYDyVhx7HzGbI_cDNFIzJVMao9ENO_NHyKd2pKuqIBoCOlAQAvD_BwE"><img src="guccishoe3.jpg" ></a>
+                 <div>Rhyton Sneakers</div>
+            </td>
+            <td>
+                <a href="https://www.gucci.com/it/it/pr/women/handbags/crossbody-bags-for-women/gg-marmont-medium-shoulder-bag-p-837267AAE381000?srsltid=AfmBOor2NRm_qvA2_0h5yh7-7cKNYv45BWw53BaFXPsb7LvgtG8Ls_AE"><img src="guccibag.jpg" ></a>
+                 <div>GG Marmont Bag</div>
+            </td>
+        </tr>
+    </table>
+    <br>
+    <br>
+    <div><a href="IISDAVINCI Fashion week">Scopri Altri Brand</a></div> 
+</body>
+</html>

@@ -1,0 +1,80 @@
+<html>
+<head>
+
+    <style>
+        body{
+            background-color: lightgrey;
+        }
+
+        h1 {
+            text-align: center;
+            font-family: serif;
+        }
+        table {
+            width: 80%;
+            margin: 0 auto;
+            border-collapse: collapse;
+        }
+        td {
+            text-align: center;
+            padding: 20px;
+        }
+        img {
+            width: 200px; 
+            height: 230px;
+            border-radius:60px;
+        }
+        caption {
+            font-weight: bold;
+            margin-top: 10px;
+        }
+      a:link,
+      a:visited {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: grey;
+}
+        div{
+            text-align: center;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-size: 18px;
+            
+        }
+         a:hover img {
+            transform: scale(1.5);
+            transition: 0.3s;
+        }
+    </style>
+</head>
+<body>
+    <h1><a href="https://www.prada.com/it/it.html?utm_campaign=GoogleSearch_IT&utm_medium=CPC&utm_source=Google&utm_content=Pure_Brand_Exact&s_kwcid=AL!8549!3!789740349751!e!!g!!prada&gclsrc=aw.ds&gad_source=1&gad_campaignid=764904421&gbraid=0AAAAADgVuh9pBLUy_pkh2W4m9-wdjf9QS&gclid=CjwKCAiAqprNBhB6EiwAMe3yhuqxW4pftRW2jFTxwC8Qq2yB5fI6O1PYBVDI91mi2W5D80NCcFzETRoC9YoQAvD_BwE">PRADA</a></h1>
+    <table>
+        <tr>
+            <td>
+                <a href="https://www.prada.com/it/it/p/mocassini-chocolate-in-pelle-spazzolata/2DE127_055_F0002_F_G000"><img src="pradashoes.png"></a>
+                 <br>
+                 <br>
+                <div>Moccassini chocolate</div>
+            </td>
+            <td>
+                <a href="https://stockx.com/balenciaga-triple-s-white-2021-w"><img src="pradabag.png"></a>
+                 <div>Re-Edition 2000 mini-bag</div>
+            </td>
+            <td>
+                <a href="https://www.prada.com/it/it/p/occhiali-da-sole-prada-symbole/SPR17W_E1AB_F05S0_C_049"><img src="pradasun.png" ></a>
+                 <br>
+                 <br>
+                 <div>Occhiali da sole Prada Symbole</div>
+            </td>
+            <td>
+                <a href="https://www.prada.com/it/it/p/blouson-in-re-nylon/29C246_1WQ8_F0002_S_OOO"><img src="pradajacket.png" ></a>
+                 <div>Blouson in Re-Nylon</div>
+            </td>
+        </tr>
+    </table>
+    <div><a href="IISDAVINCI Fashion week">Scopri Altri Brand</a></div> 
+</body>
+</html>
